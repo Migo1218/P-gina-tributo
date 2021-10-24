@@ -1,0 +1,36 @@
+body{
+    background-color: antiquewhite;
+}
+
+img{
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
+
+#tribute-info{
+    padding: auto;
+    margin: 35px 100px 35px 100px;
+
+    text-align: justify;
+    background-color:bisque;
+    color: blue;
+}
+
+#title{
+    text-align: center;
+}
+
+#img-div{
+    
+    display:block;
+    margin-left:25%;
+    
+}
+
+#img-caption{
+    width: auto;
+    height: auto;
+    text-align: center;
+}
